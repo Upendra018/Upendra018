@@ -169,24 +169,6 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 <br/>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=upendrabondala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendrabondala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=upendrabondala&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=upendrabondala&theme=tokyo-night&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-🏆 **Trophy Case**
-
-<img src="https://github-profile-trophy.vercel.app/?username=upendrabondala&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div>
 
 > ℹ️ Replace `upendrabondala` in every URL above with your **exact** GitHub username so these widgets pull your real, live data.
 
