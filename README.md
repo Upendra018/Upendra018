@@ -1,84 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=200&section=header&text=UPENDRA%20BONDALA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20turn%20system%20requirements%20into%20production%20software&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=UPENDRA%20BONDALA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=F72585&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I+build+things+that+don't+fall+over.;Java+%2B+Spring+Boot+%2B+React+%2B+relentless+testing." alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/-Email%20Me-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bondalaupendra03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-4361EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-bondala-5184a4277)
+[![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-2B2D42?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
-<h3 align="center">🔥 I build the backend nobody sees and the frontend everyone uses — then I test both until they don't break.</h3>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Building-2E9EF7?style=flat-square"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
-<p align="center">
-  <a href="mailto:bondalaupendra03@gmail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/upendra-bondala-5184a4277"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="#"><b>🐙 GitHub</b></a>
+<h2 align="center">🔥 Systems that survive contact with real users 🔥</h2>
+
+<p align="center" style="font-size:18px">
+I engineer <b>enterprise-grade web applications</b> — backend in <b>Java &amp; Spring Boot</b>, frontend in <b>React</b>, data layers in <b>MySQL &amp; PostgreSQL</b> — built for <b>compliance-critical Banking &amp; Financial Services</b> systems where "it mostly works" isn't good enough.
 </p>
 
 <br/>
-
-## ⚡ From Requirement to Running Code
-
-<div align="center">
-
-```
-  REQUIREMENT           API LAYER              DATA LAYER             INTERFACE              VERIFIED
-┌─────────────┐      ┌─────────────┐       ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-│  Analyze    │ ───► │  Spring Boot│ ───►  │  MySQL /    │ ───►  │   React.js  │ ───►  │  JUnit +    │
-│  SRD / spec │      │  REST APIs  │       │  PostgreSQL │       │  Components │       │  Mockito    │
-└─────────────┘      └─────────────┘       └─────────────┘       └─────────────┘       └─────────────┘
-                             │                                                                 │
-                             ▼                                                                 ▼
-                      Hibernate / JPA                                                   Log4j / Logback
-                      schema + queries                                                  traced & logged
-```
-
-</div>
-
-<p align="center"><sub>This is the same loop I run on every project below — design it, build it, connect it, ship it, prove it works.</sub></p>
-
-<br/>
-
-## 🎯 Snapshot
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-**4**
-Systems shipped
-end-to-end
-
-</td>
-<td align="center" width="25%">
-
-**2**
-Database engines
-in production use
-
-</td>
-<td align="center" width="25%">
-
-**🏦**
-Compliance-critical
-Banking domain
-
-</td>
-<td align="center" width="25%">
-
-**🌍**
-Remote-ready
-async collaborator
-
-</td>
+<td align="center" bgcolor="#F72585">🧪<br/><b>4</b><br/><sub>Systems Shipped</sub></td>
+<td align="center" bgcolor="#7209B7">🗄️<br/><b>2</b><br/><sub>DB Engines</sub></td>
+<td align="center" bgcolor="#3A0CA3">🏦<br/><b>1</b><br/><sub>Compliance Domain</sub></td>
+<td align="center" bgcolor="#4361EE">🌍<br/><b>∞</b><br/><sub>Remote-Ready</sub></td>
 </tr>
 </table>
 
@@ -86,88 +47,112 @@ async collaborator
 
 <br/>
 
-## 🛠️ Stack, at a Glance
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
+
+<h2 align="center">🧰 The Arsenal</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,vite,js,html,css,mysql,postgres,git,github,idea,maven,tomcat,postman&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,vite,js,html,css&perline=8"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,idea,maven,tomcat,postman&perline=8"/>
 
 </div>
 
 <br/>
 
-## 🚀 Projects — Problem → Build → Result
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
-<details open>
-<summary><b>🔄 Ancient Barter System</b> — a currency-free trading platform</summary>
-<br/>
-
-**Problem:** Enable people to exchange goods/services directly, with no payment gateway in the loop.
-**Build:** Java 8 · Spring Boot · Spring Data JPA · MySQL · React.js · JUnit
-**Result:** Secure, role-based transaction flows + a working item listing/trading engine, schema-optimized for fast retrieval.
-
-</details>
-
-<details>
-<summary><b>📡 NPM Dashboard</b> — production monitoring for British Telecom</summary>
-<br/>
-
-**Problem:** Stakeholders had no real-time visibility when a process or interface failed across multiple VMs.
-**Build:** Java · Spring Boot · React.js · Microservices · Hibernate
-**Result:** Live monitoring UI + automated email alerts on configurable thresholds — coordinated across onsite and offshore teams.
-
-</details>
-
-<details>
-<summary><b>🛒 E-commerce Web Application</b> — full-stack retail platform</summary>
-<br/>
-
-**Problem:** Needed a complete commerce flow — catalog to checkout — with clean data modeling underneath.
-**Build:** Java · Spring Boot · MySQL · Hibernate
-**Result:** 1:M / M:M relational schema across users/products/orders, role-based access for customer vs. admin, optimized queries throughout.
-
-</details>
+<h2 align="center">⚡ What I've Built</h2>
 
 <br/>
-
-## 📈 Live Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=upendrabondala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendrabondala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=upendrabondala&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<p align="center"><sub>⚠️ Swap <code>upendrabondala</code> for your real GitHub username to make these load.</sub></p>
-
-<br/>
-
-## 💪 Why It Holds Up in Production
 
 <table>
-<tr><td>🎯</td><td>End-to-end RESTful API development — Java, Spring Boot, Hibernate</td></tr>
-<tr><td>🧠</td><td>OOP + design patterns applied to real scalability problems, not textbook ones</td></tr>
-<tr><td>🐛</td><td>Debugs across the full stack — doesn't stop at "works on my machine"</td></tr>
-<tr><td>🔀</td><td>Git-disciplined, Agile-native, comfortable owning a feature start to finish</td></tr>
-<tr><td>🚀</td><td>Picks up new tools fast, under real deadline pressure</td></tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🔄
+### Ancient Barter System
+<sub>Trade goods & services — zero currency involved</sub>
+
+`Java 8` `Spring Boot` `MySQL` `React`
+
+Secure role-based transactions + a full item listing/trading engine, schema-tuned for speed.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📡
+### NPM Dashboard
+<sub>Built for British Telecom</sub>
+
+`Java` `Microservices` `Hibernate` `React`
+
+Real-time production monitoring across VMs — auto-alerts stakeholders the moment something drifts.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🛒
+### E-commerce Platform
+<sub>Full-stack retail, start to checkout</sub>
+
+`Java` `Spring Boot` `MySQL`
+
+Relational schema across users/products/orders, role-based access, optimized queries throughout.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
+
+<h2 align="center">📊 Live From GitHub</h2>
+
 <div align="center">
 
-## 📬 Let's Build Something That Ships
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=upendrabondala&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendrabondala&layout=compact&theme=radical&hide_border=true"/>
 
-**Open to remote full-stack and backend engineering roles.**
+<br/>
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bondalaupendra03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-bondala-5184a4277)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=upendrabondala&theme=radical&hide_border=true"/>
 
-<img src="https://komarev.com/ghpvc/?username=upendrabondala&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
+<p align="center"><sub>⚠️ Swap <code>upendrabondala</code> for your real GitHub username to bring these to life.</sub></p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
+
+<h2 align="center">💪 Why It Holds Up</h2>
+
+<div align="center">
+
+🎯 **RESTful APIs, done right** — Java, Spring Boot, Hibernate, end to end
+🧠 **OOP + design patterns** — applied to real scale problems, not textbook ones
+🐛 **Full-stack debugging** — doesn't stop at "works on my machine"
+🔀 **Git-disciplined, Agile-native** — owns features start to finish
+🚀 **Fast learner** — picks up new tools under real deadline pressure
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer"/>
+
+<div align="center">
+
+<h2>📬 Let's build something that ships.</h2>
+
+**Open to remote full-stack & backend engineering roles.**
+
+[![Email](https://img.shields.io/badge/-bondalaupendra03@gmail.com-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bondalaupendra03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-4361EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-bondala-5184a4277)
+
+<img src="https://komarev.com/ghpvc/?username=upendrabondala&style=for-the-badge&color=F72585&label=PROFILE+VIEWS"/>
 
 </div>
