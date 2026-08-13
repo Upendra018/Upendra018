@@ -29,7 +29,7 @@ currently: shipping scalable, production-ready systems — design to deployment
 motto: "Ship it clean, test it hard, log everything."
 ```
 
-I'm a results-driven Software Developer who architects and delivers enterprise-grade web applications end to end — backend services in **Java & Spring Boot**, frontends in **React**, data layers in **MySQL/PostgreSQL**, all held together by tests, logs, and disciplined Git workflow. Focused on compliance-aware, production-ready systems in the **Banking & Financial Services** space.
+I'm a results-driven Software Developer who architects and delivers enterprise-grade web applications end to end-backend services in **Java & Spring Boot**, frontends in **React**, data layers in **MySQL/PostgreSQL**, all held together by tests, logs, and disciplined Git workflow. Focused on compliance-aware, production-ready systems in the **Banking & Financial Services** space.
 
 <br/>
 
@@ -62,7 +62,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Engineering
-- Build reusable **React.js** components — Hooks, JSX, functional
+- Build reusable **React.js** components-Hooks, JSX, functional
 - Wire up **React Router** for client-side routing & state
 - Wire React ⇄ Spring Boot over REST for seamless UX
 - Optimize with lazy loading, reusability, efficient rendering
@@ -83,8 +83,8 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 <td width="50%" valign="top">
 
 ### 🤝 Team & Process
-- Full **Agile/Scrum** cycle - planning, stand-ups, retros, reviews
-- **Git/GitHub** - version control, branching, collaborative dev
+- Full **Agile/Scrum** cycle-planning, stand-ups, retros, reviews
+- **Git/GitHub**-version control, branching, collaborative dev
 - Partners with UI/UX, QA & backend engineers
 - Compliance-aware delivery in a **Banking** environment
 
@@ -125,7 +125,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 ## 🚀 Projects Worth Talking About
 
 ### 🤝 Ancient Barter System
-> Reinventing goods & services exchange — no money, just trades.
+> Reinventing goods & services exchange-no money, just trades.
 
 `Java 8` `Spring Boot` `Spring Data JPA` `MySQL` `React.js` `JUnit` `Log4j` `Maven` `Git` `STS`
 
@@ -176,11 +176,27 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/upendrabondala/upendrabondala/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
+> ℹ️ Automatically generated from my GitHub contribution activity using GitHub Actions.
 
-> ℹ️ This snake animation needs a one-time GitHub Actions workflow (`Platane/snk`) set up in your profile repo — happy to generate that workflow file for you if you want it wired up.
+<br/>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/upendrabondala/upendrabondala/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/upendrabondala/upendrabondala/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/upendrabondala/upendrabondala/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <br/>
 
@@ -196,7 +212,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ## 💪 Key Strengths
 
-- 🧠 Self-motivated - learns new tools and unblocks itself without hand-holding
+- 🧠 Self-motivated-learns new tools and unblocks itself without hand-holding
 - ☕ Strong foundation in Java, Spring Boot, Hibernate, RESTful APIs, and SQL
 - 🛠️ Comfortable owning features end-to-end, from database schema and API design to the React UI
 - 🔗 Able to work across backend and frontend layers, connecting APIs, databases, and React interfaces
