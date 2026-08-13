@@ -37,7 +37,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 <div align="center">
 
-| 🧪 4 Projects | 🗄️ 2 DB Engines | 🌐 3 Languages |
+| 🚀 4 Projects | 🗄️ 2 DB Engines | 🌐 3 Languages |
 |:---:|:---:|:---:|
 | Shipped & Delivered | MySQL · PostgreSQL | English · Telugu · Tamil |
 
