@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=220&section=header&text=Upendra%20Bondala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer%20%7C%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Architecting+enterprise+Java+%2B+Spring+Boot+systems;Shipping+React+interfaces+that+don't+break;RESTful+APIs+%7C+Microservices+%7C+Clean+Code;Banking+%26+Financial+Services+Domain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Backend+%26+Full-Stack+Developer;RESTful+APIs+%7C+Microservices+%7C+SQL;Building+Scalable+%26+Reliable+Applications;Clean+Code+%7C+Problem+Solving+%7C+Continuous+Learning" alt="Typing SVG" />
 
 <br/>
 
