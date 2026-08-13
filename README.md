@@ -218,7 +218,9 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 **Open to full-stack and backend Java roles.**
 The fastest way to reach me is email or phone.
 
-✉️ **bondalaupendra03@gmail.com** &nbsp;|&nbsp; ☎️ ** <a href="https://wa.me/917660076315">+91 7660076315**
+✉️ <a href="mailto:bondalaupendra03@gmail.com"><strong>bondalaupendra03@gmail.com</strong></a>
+&nbsp;|&nbsp;
+☎️ <a href="tel:+917660076315"><strong>+91 7660076315</strong></a>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendrabondala/)
 
