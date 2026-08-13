@@ -196,11 +196,16 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ## 💪 Key Strengths
 
-- 🎯 Proven expertise in Java, Spring Boot, Hibernate & end-to-end RESTful API development
-- 🧠 Solid command of OOP concepts, data structures & design patterns for scalable systems
-- 🔀 Skilled with Git for version control & JIRA for Agile project tracking
-- 🐛 Strong analytical & debugging abilities — resolves complex issues efficiently
-- 🚀 Self-driven, adaptable, learns new tech fast under deadline pressure
+- 🧠 Self-motivated — learns new tools and unblocks itself without hand-holding
+- ☕ Strong foundation in Java, Spring Boot, Hibernate, RESTful APIs, and SQL
+- 🛠️ Comfortable owning features end-to-end, from database schema and API design to the React UI
+- 🔗 Able to work across backend and frontend layers, connecting APIs, databases, and React interfaces
+- 🧩 Strong understanding of OOP concepts, data structures, and common design patterns
+- 🐛 Experienced in debugging and troubleshooting issues across the application stack
+- 🔧 Comfortable working with Git, GitHub, Maven, Postman, and Agile development practices
+- 🔐 Familiar with application security concepts including JWT-based authentication and authorization
+- 💡 Self-driven problem solver who can independently investigate issues and find practical solutions
+- 🚀 Quick learner with the ability to adapt to new technologies and development tools
 
 <br/>
 
