@@ -51,7 +51,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Backend Engineering
+### ⚙️ Backend Engineering
 - Architect backend modules in **Java** & **Spring Boot**
 - Design & consume **RESTful APIs** for frontend + 3rd-party integrations
 - Apply **OOP + design patterns** via Spring Data JPA & Hibernate
@@ -83,8 +83,8 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 <td width="50%" valign="top">
 
 ### 🤝 Team & Process
-- Full **Agile/Scrum** cycle — planning, stand-ups, retros, reviews
-- **Git/GitHub** — version control, branching, collaborative dev
+- Full **Agile/Scrum** cycle - planning, stand-ups, retros, reviews
+- **Git/GitHub** - version control, branching, collaborative dev
 - Partners with UI/UX, QA & backend engineers
 - Compliance-aware delivery in a **Banking** environment
 
@@ -122,9 +122,9 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 <br/>
 
-## 🧪 Projects Worth Talking About
+## 🚀 Projects Worth Talking About
 
-### 🔄 Ancient Barter System
+### 🤝 Ancient Barter System
 > Reinventing goods & services exchange — no money, just trades.
 
 `Java 8` `Spring Boot` `Spring Data JPA` `MySQL` `React.js` `JUnit` `Log4j` `Maven` `Git` `STS`
@@ -135,7 +135,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ---
 
-### 📡 NPM Dashboard 
+### 📊 NPM Dashboard 
 > Real-time watchdog for production infrastructure, across VMs.
 
 `Java` `JSP` `Spring Boot` `React.js` `Microservices` `Hibernate` `JavaScript`
@@ -157,8 +157,8 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ---
 
-### 🛒 Nazaara — OTT Streaming Platform
-> A video streaming platform with subscription-based access — covering content browsing, user accounts, and paid plans gating premium content.
+### 🎬 Nazaara — OTT Streaming Platform
+> A video streaming platform with subscription-based access - covering content browsing, user accounts, and paid plans gating premium content.
 
 `Java` `Spring Boot` `MySQL` `React.js` `Maven` `Mockito` `Git` `Log4j / Logback` `REST APIs` `JUnit` `Postman`
 
@@ -171,8 +171,6 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 <br/>
 
-
-> ℹ️ Replace `upendrabondala` in every URL above with your **exact** GitHub username so these widgets pull your real, live data.
 
 <br/>
 
@@ -198,7 +196,7 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 
 ## 💪 Key Strengths
 
-- 🧠 Self-motivated — learns new tools and unblocks itself without hand-holding
+- 🧠 Self-motivated - learns new tools and unblocks itself without hand-holding
 - ☕ Strong foundation in Java, Spring Boot, Hibernate, RESTful APIs, and SQL
 - 🛠️ Comfortable owning features end-to-end, from database schema and API design to the React UI
 - 🔗 Able to work across backend and frontend layers, connecting APIs, databases, and React interfaces
@@ -220,7 +218,7 @@ The fastest way to reach me is email or phone.
 
 ✉️ <a href="mailto:bondalaupendra03@gmail.com"><strong>bondalaupendra03@gmail.com</strong></a>
 &nbsp;|&nbsp;
-☎️ <a href="tel:+917660076315">+91 76600 76315</a>
+☎️ <a href="tel:+917660076315"><strong>+91 7660076315</strong></a>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendrabondala/)
 
