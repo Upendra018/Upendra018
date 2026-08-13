@@ -180,12 +180,12 @@ I'm a results-driven Software Developer who architects and delivers enterprise-g
 <img src="https://raw.githubusercontent.com/upendrabondala/upendrabondala/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
-> ℹ️ This snake animation needs a one-time GitHub Actions workflow (`Platane/snk`) set up in your profile repo — happy to generate that workflow file for you if you want it wired up.
-> 🐍 Visualizes GitHub contribution activity through a dynamic snake animation
-> 📊 Highlights consistency across the GitHub contribution graph
-> 🔄 Automatically updated through GitHub Actions
-> ⚡ Generated using the `Platane/snk` GitHub Action
-> 🌙 Supports both light and dark GitHub themes
+ ℹ️ This snake animation needs a one-time GitHub Actions workflow (`Platane/snk`) set up in your profile repo — happy to generate that workflow file for you if you want it wired up.
+🐍 Visualizes GitHub contribution activity through a dynamic snake animation
+📊 Highlights consistency across the GitHub contribution graph
+🔄 Automatically updated through GitHub Actions
+⚡ Generated using the `Platane/snk` GitHub Action
+🌙 Supports both light and dark GitHub themes
 <br/>
 
 ## 🎓 Education
